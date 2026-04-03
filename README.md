@@ -1,5 +1,5 @@
 # Sub-Tracker AI
-
+https://subscription-tracker-three-omega.vercel.app/
 เว็บแอปสำหรับช่วยตรวจหา Subscription จาก Gmail และสรุปข้อมูลเพื่อบันทึกลง Supabase
 
 > โครงการนี้ใช้ Next.js (App Router) + Supabase Auth + Gmail API + AI extraction
